@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\testandoSwitch\bin\Debug\testandoSwitch.exe.config
+D:\AulasCSharp\aprendendoCSharp\testandoSwitch\bin\Debug\testandoSwitch.exe
+D:\AulasCSharp\aprendendoCSharp\testandoSwitch\bin\Debug\testandoSwitch.pdb
+D:\AulasCSharp\aprendendoCSharp\testandoSwitch\obj\Debug\testandoSwitch.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\testandoSwitch\obj\Debug\testandoSwitch.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\testandoSwitch\obj\Debug\testandoSwitch.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\testandoSwitch\obj\Debug\testandoSwitch.exe
+D:\AulasCSharp\aprendendoCSharp\testandoSwitch\obj\Debug\testandoSwitch.pdb
