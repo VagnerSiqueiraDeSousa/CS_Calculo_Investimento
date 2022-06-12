@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\testeWhile\bin\Debug\testeWhile.exe.config
+D:\AulasCSharp\aprendendoCSharp\testeWhile\bin\Debug\testeWhile.exe
+D:\AulasCSharp\aprendendoCSharp\testeWhile\bin\Debug\testeWhile.pdb
+D:\AulasCSharp\aprendendoCSharp\testeWhile\obj\Debug\testeWhile.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\testeWhile\obj\Debug\testeWhile.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\testeWhile\obj\Debug\testeWhile.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\testeWhile\obj\Debug\testeWhile.exe
+D:\AulasCSharp\aprendendoCSharp\testeWhile\obj\Debug\testeWhile.pdb
