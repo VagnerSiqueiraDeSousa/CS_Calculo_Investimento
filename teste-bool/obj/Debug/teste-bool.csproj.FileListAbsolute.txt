@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\teste-bool\obj\Debug\teste-bool.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\teste-bool\obj\Debug\teste-bool.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\teste-bool\obj\Debug\teste-bool.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\teste-bool\bin\Debug\teste-bool.exe.config
+D:\AulasCSharp\aprendendoCSharp\teste-bool\bin\Debug\teste-bool.exe
+D:\AulasCSharp\aprendendoCSharp\teste-bool\bin\Debug\teste-bool.pdb
+D:\AulasCSharp\aprendendoCSharp\teste-bool\obj\Debug\teste-bool.exe
+D:\AulasCSharp\aprendendoCSharp\teste-bool\obj\Debug\teste-bool.pdb
