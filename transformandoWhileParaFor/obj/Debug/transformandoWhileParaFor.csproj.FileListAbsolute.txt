@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\transformandoWhileParaFor\bin\Debug\transformandoWhileParaFor.exe.config
+D:\AulasCSharp\aprendendoCSharp\transformandoWhileParaFor\bin\Debug\transformandoWhileParaFor.exe
+D:\AulasCSharp\aprendendoCSharp\transformandoWhileParaFor\bin\Debug\transformandoWhileParaFor.pdb
+D:\AulasCSharp\aprendendoCSharp\transformandoWhileParaFor\obj\Debug\transformandoWhileParaFor.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\transformandoWhileParaFor\obj\Debug\transformandoWhileParaFor.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\transformandoWhileParaFor\obj\Debug\transformandoWhileParaFor.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\transformandoWhileParaFor\obj\Debug\transformandoWhileParaFor.exe
+D:\AulasCSharp\aprendendoCSharp\transformandoWhileParaFor\obj\Debug\transformandoWhileParaFor.pdb
