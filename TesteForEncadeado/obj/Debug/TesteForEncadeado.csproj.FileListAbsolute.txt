@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\TesteForEncadeado\bin\Debug\TesteForEncadeado.exe.config
+D:\AulasCSharp\aprendendoCSharp\TesteForEncadeado\bin\Debug\TesteForEncadeado.exe
+D:\AulasCSharp\aprendendoCSharp\TesteForEncadeado\bin\Debug\TesteForEncadeado.pdb
+D:\AulasCSharp\aprendendoCSharp\TesteForEncadeado\obj\Debug\TesteForEncadeado.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\TesteForEncadeado\obj\Debug\TesteForEncadeado.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\TesteForEncadeado\obj\Debug\TesteForEncadeado.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\TesteForEncadeado\obj\Debug\TesteForEncadeado.exe
+D:\AulasCSharp\aprendendoCSharp\TesteForEncadeado\obj\Debug\TesteForEncadeado.pdb
